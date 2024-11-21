@@ -9,7 +9,7 @@ description: What I felt during my first ever college midterms.
 They say college is where you find yourself, but during midterms, I mostly found myself buried under school work. These are the emotions I experienced during my first midterms—and how I handled them.  
 
 ## Stage 1: Denial  
-“Midterms? Already? There’s no way.” I spent the first week ignoring my to-do list, convincing myself I had plenty of time. Spoiler: I didn’t.  
+“Midterms? Already? There’s no way.” I spent the first week ignoring my to-do list, convincing myself I had plenty of time. Spoiler: I didn’t.
 
 ### What Helped:  
 - Making a detailed schedule with deadlines. Seeing it on paper snapped me out of denial.  
